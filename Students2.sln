@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Students2", "Students2.vcxproj", "{C3119605-7FAF-4883-B62E-41496D25CF07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StudentsUI", "..\StudentsUI\StudentsUI.vdproj", "{940A9BD6-CC9C-41E6-0DD9-206D392C930D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C3119605-7FAF-4883-B62E-41496D25CF07}.Release|x64.Build.0 = Release|x64
 		{C3119605-7FAF-4883-B62E-41496D25CF07}.Release|x86.ActiveCfg = Release|Win32
 		{C3119605-7FAF-4883-B62E-41496D25CF07}.Release|x86.Build.0 = Release|Win32
+		{940A9BD6-CC9C-41E6-0DD9-206D392C930D}.Debug|x64.ActiveCfg = Debug
+		{940A9BD6-CC9C-41E6-0DD9-206D392C930D}.Debug|x86.ActiveCfg = Debug
+		{940A9BD6-CC9C-41E6-0DD9-206D392C930D}.Release|x64.ActiveCfg = Release
+		{940A9BD6-CC9C-41E6-0DD9-206D392C930D}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
